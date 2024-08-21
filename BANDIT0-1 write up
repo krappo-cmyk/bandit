@@ -1,0 +1,13 @@
+#  BANDIT LEVEL 0-1 WRITE-UP
+##Objective:
+Find the password for next level from the given readme file
+
+##Step taken:
+
+1) Finding the readme file
+Using ls command found the readme file in the directory
+
+commamd: ls
+2) opening the read me file 
+using cat command  opened the readme file in the directory and found the password for the server in   next level
+Command :cat readme
